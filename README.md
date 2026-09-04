@@ -46,4 +46,7 @@ add nuts to the 3d printed case at the button
 then place on top of it the pcb's in order (first the bottom , then the main and then the top one) after that pass a screw in each corner mounting hole of the pcb until it's reached the nut , be careful not to damage the main board
 
 ### 10th step 
-You will need to download Circuitpython
+You will need to download the latest .uf2 stable file on Circuitpython for pico W (make sure it's the W not the normal version)
+
+### 11th step
+hold the bootsel button on the board while inserting the board to your pc release the button when it's connected ## do this step before soldering the top and main pcb together ##
