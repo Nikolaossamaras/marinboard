@@ -49,4 +49,4 @@ then place on top of it the pcb's in order (first the bottom , then the main and
 You will need to download the latest .uf2 stable file on Circuitpython for pico W (make sure it's the W not the normal version)
 
 ### 11th step
-hold the bootsel button on the board while inserting the board to your pc release the button when it's connected ## do this step before soldering the top and main pcb together ##
+hold the bootsel button on the board while inserting the board to your pc release the button when it's connected ** do this step before soldering the top and main pcb together **
