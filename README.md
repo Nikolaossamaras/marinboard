@@ -49,4 +49,21 @@ then place on top of it the pcb's in order (first the bottom , then the main and
 You will need to download the latest .uf2 stable file on Circuitpython for pico W (make sure it's the W not the normal version)
 
 ### 11th step
-hold the bootsel button on the board while inserting the board to your pc release the button when it's connected ** do this step before soldering the top and main pcb together **
+hold the bootsel button on the board while inserting the board to your pc release the button when it's connected **do this step before soldering the top and main pcb together**
+
+### 12th step 
+
+copy the .uf2 file to the microcontroller
+
+the board will reboot and then a drove called ```Circuitpython``` should appear 
+
+### 13th step
+Your main program must be named code.py (or main.py) and placed at the root of CIRCUITPY
+For libraries , grab the matching version of the CircuitPython Library Bundle and copy the needed .mpy files into a /lib folder on CIRCUITPY
+
+### 14th step
+when you upload the code to the drive it should become an input meaning the drive will disapear
+
+## Licence
+
+This project is under the MIT licence 
