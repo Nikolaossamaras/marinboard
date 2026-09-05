@@ -1,0 +1,12 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Exclude from Simulation,Exclude from Position Files,Footprint,Datasheet
+A1,1,RaspberryPi_Pico,,,,,${EXCLUDE_FROM_POS_FILES},Module:RaspberryPi_Pico_Common_Unspecified,https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84",84,D,,,,,${EXCLUDE_FROM_POS_FILES},Diode_SMD:D_SOD-123,
+S1,1,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_THT:SW_PUSH_6mm,
+"sw1,sw2,sw3,sw4,sw5,sw6,sw7,sw8,sw9,sw10,sw11,sw12,sw13,sw14,sw15,sw16,sw17,sw18,sw19,sw20,sw21,sw22,sw23,sw24,sw25,sw26,sw27,sw28,sw29,sw31,sw33,sw34,sw35,sw36,sw37,sw38,sw39,sw40,sw41,sw42,sw43,sw44,sw46,sw48,sw49,sw50,sw51,sw52,sw53,sw54,sw55,sw56,sw57,sw58,sw60,sw62,sw63,sw64,sw65,sw66,sw67,sw68,sw69,sw70,sw71,sw73,sw74,sw79,sw80,sw81,sw82,sw83,sw84",73,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,
+sw30,1,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB,
+"sw32,sw45",2,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB,
+"sw47,sw72",2,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB,
+"sw59,sw61",2,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB,
+"sw75,sw76,sw77",3,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB,
+sw78,1,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB,
+U1,1,ER_OLEDM0.91_1x-I2C,,,,,${EXCLUDE_FROM_POS_FILES},Display:ER_OLEDM0.91_1x-I2C,https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf
