@@ -9,7 +9,11 @@ It's a costum keyboard with the thematic of Marin kitagawa from the anime My-dre
 I really love anime and my favourite character is Marin Kitagawa. I also like electronics and making projects so i sat down and though which will be my next project and i decided on this one a CUSTOM KEYBOARD that is designed with diffrent Marin Kitagawa and dress-up-darling pictures.
 
 ## PCB Preview
+![alt text](image.png)
 
+---
+
+![alt text](image-1.png)
 
 ## Schematic
 
