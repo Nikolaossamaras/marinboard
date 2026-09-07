@@ -24,6 +24,8 @@ I really love anime and my favourite character is Marin Kitagawa. I also like el
 
 ## CAD
 
+![alt text](image-4.png)
+
 ## Requirements
 
 | Product | quantity |
