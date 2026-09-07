@@ -20,8 +20,8 @@ from adafruit_hid.keycode import Keycode
 
 #Configuration
 
-WIFI_SSID = "YourSSID"
-WIFI_PASSWORD = "YourPassword"
+WIFI_SSID = os.getenv("WIFI_SSID") # change this in your .env file
+WIFI_PASSWORD = os.getenv("WIFI_PASSWORD") # change this in your .env file
 WIFI_TIMEOUT = 8  
 
 UTC_OFFSET = 3

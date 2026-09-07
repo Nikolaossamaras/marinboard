@@ -8,6 +8,25 @@ It's a costum keyboard with the thematic of Marin kitagawa from the anime My-dre
 
 I really love anime and my favourite character is Marin Kitagawa. I also like electronics and making projects so i sat down and though which will be my next project and i decided on this one a CUSTOM KEYBOARD that is designed with diffrent Marin Kitagawa and dress-up-darling pictures.
 
+## PCB Preview
+
+
+## Schematic
+
+
+## CAD
+
+## Requirements
+
+| Product | quantity |
+| --- | --- |
+| OLED Module 128x32 0.91" i2c | 1pc |
+| Raspberry Pi Pico W | 1pc |
+| 1N4148W diodes | 84pc |
+| costum pcb | 1 |
+| 3D printed case | 1 |
+
+
 ## How to assemble it?
 
 ### 1st step
