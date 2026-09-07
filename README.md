@@ -22,9 +22,16 @@ I really love anime and my favourite character is Marin Kitagawa. I also like el
 | --- | --- |
 | OLED Module 128x32 0.91" i2c | 1pc |
 | Raspberry Pi Pico W | 1pc |
-| 1N4148W diodes | 84pc |
-| costum pcb | 1 |
-| 3D printed case | 1 |
+| 1N4148W diodes | 84pcs |
+| costum pcb | 1pc |
+| 3D printed case | 1pc |
+
+## Tools 
+
+| Tool |
+| --- |
+| soldering station/iron |
+| 3d printer |
 
 
 ## How to assemble it?
