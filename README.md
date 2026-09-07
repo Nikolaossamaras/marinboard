@@ -16,7 +16,11 @@ I really love anime and my favourite character is Marin Kitagawa. I also like el
 ![alt text](image-1.png)
 
 ## Schematic
+![alt text](image-2.png)
 
+---
+
+![alt text](image-3.png)
 
 ## CAD
 
