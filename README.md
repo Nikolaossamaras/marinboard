@@ -39,6 +39,9 @@ I really love anime and my favourite character is Marin Kitagawa. I also like el
 | Raspberry Pi Pico W | 1pc |
 | 1N4148W diodes | 84pcs |
 | costum pcb | 1pc |
+| cherry mx switches | 84pcs |
+| keycaps | 84 pcs |
+| knurled nuts brass m3 | 4pcs |
 | 3D printed case | 1pc |
 
 ## Tools 
