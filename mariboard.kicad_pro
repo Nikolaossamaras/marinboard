@@ -529,7 +529,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "gerber/top_pcb/",
+      "plot": "gerber/main_pcb/",
       "specctra_dsn": "",
       "step": "../mariboard.step",
       "vrml": ""
