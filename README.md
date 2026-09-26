@@ -24,7 +24,8 @@ I really love anime and my favourite character is Marin Kitagawa. I also like el
 
 ## CAD
 
-![alt text](image-4.png)
+<img width="1376" height="691" alt="image" src="https://github.com/user-attachments/assets/17247691-9f74-4176-a93e-da0412308623" />
+
 
 ## PCB assembly
 <img width="1391" height="685" alt="image" src="https://github.com/user-attachments/assets/2bac1dea-5a8b-4f89-979a-2e26e65d72bf" />
