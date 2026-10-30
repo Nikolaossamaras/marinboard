@@ -9,18 +9,19 @@ It's a costum keyboard with the thematic of Marin kitagawa from the anime My-dre
 I really love anime and my favourite character is Marin Kitagawa. I also like electronics and making projects so i sat down and though which will be my next project and i decided on this one a CUSTOM KEYBOARD that is designed with diffrent Marin Kitagawa and dress-up-darling pictures.
 
 ## PCB Preview
-![alt text](image.png)
+<img width="1513" height="782" alt="image" src="https://github.com/user-attachments/assets/3827963c-698c-44ad-9e53-1fb813efeda4" />
+
 
 ---
 
-![alt text](image-1.png)
+<img width="1653" height="640" alt="image-1" src="https://github.com/user-attachments/assets/6b4679b3-1da2-43d5-ab7f-ada00fadd934" />
+
 
 ## Schematic
-![alt text](image-2.png)
+<img width="1199" height="493" alt="image-3" src="https://github.com/user-attachments/assets/cb698fff-53ce-460d-a3a7-d4623a1f47fa" />
 
 ---
-
-![alt text](image-3.png)
+<img width="1146" height="744" alt="image-2" src="https://github.com/user-attachments/assets/426d2ae3-60f1-42ad-b11a-5de31e754f37" />
 
 ## CAD
 
